@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pizza
 shawarma
 sinigang
+=======
+Spiderman
+The Avengers
+The Matrix
+>>>>>>> movies
